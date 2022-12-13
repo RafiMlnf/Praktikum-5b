@@ -1,4 +1,10 @@
-# Penjelasan Program - Praktikum 5b
+# Praktikum 5b
+
+> Flowchart  
+
+![00](https://user-images.githubusercontent.com/115614668/207367487-636ccdd4-9065-42de-a645-9a150c6b728d.png)
+
+# Penjelasan
 > Berikan deklarasi yang berisikan _dictionary_ kosong yang akan diisi sebuah data.
 
 ```python
